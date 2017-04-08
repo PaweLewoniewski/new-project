@@ -22,3 +22,9 @@
 .navigation__list__item__link--active {
     color: #C44D58;
 } 
+
+h1 {
+    font-family: 'Helvetica', 'Arial', serif;
+    font-size: 24px;
+    color: aqua;
+}
