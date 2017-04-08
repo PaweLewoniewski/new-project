@@ -23,8 +23,17 @@
     color: #C44D58;
 } 
 
+<<<<<<< HEAD
+h2 {
+    font-family: 'Helvetica', 'Arial', serif;
+    font-size: 30px;
+    color: aqua;
+    text-align: center;
+}
+=======
 .kliber img {
 	border: 5px solid red;
+>>>>>>> master
 }
 
 .strona-4 {
