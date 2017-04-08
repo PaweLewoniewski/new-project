@@ -1,12 +1,11 @@
-
-
-h2 {
-.tytul {
+article .tytul {
     font-family: 'Helvetica', 'Arial', serif;
     font-size: 30px;
     color: aqua;
     text-align: center;
 }
+
+
 
 .kliber img {
 	border: 5px solid red;
