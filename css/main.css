@@ -23,6 +23,10 @@
     color: #C44D58;
 } 
 
+.kliber img {
+	border: 5px solid red;
+}
+
 
 img{
     box-shadow: 5px 10px 5px black;
