@@ -23,8 +23,17 @@
     color: #C44D58;
 } 
 
+
+h2 {
+    font-family: 'Helvetica', 'Arial', serif;
+    font-size: 30px;
+    color: aqua;
+    text-align: center;
+}
+
 .kliber img {
 	border: 5px solid red;
+
 }
 
 
@@ -76,4 +85,9 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+
+.strona-4 {
+	background-color: grey;
 }
